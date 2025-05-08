@@ -103,7 +103,36 @@ const {
 async function main() {
 
     const urls = [
-        "https://www.mvlempyr.com/novel/blessed-to-be-the-villain"
+'https://www.mvlempyr.com/novel/flashy-adventurer-system-show-off-to-get-stronger',
+  'https://www.mvlempyr.com/novel/floating-island---triple-s-talent',
+  'https://www.mvlempyr.com/novel/floating-islands-sss-gacha-system',
+  'https://www.mvlempyr.com/novel/florida-man-in-magus-world-unleashing-liberty-and-freedom',
+  'https://www.mvlempyr.com/novel/flower-citys-peerless-divine-doctor',
+  'https://www.mvlempyr.com/novel/flowers-bloom-from-battlefield',
+  'https://www.mvlempyr.com/novel/fog',
+  'https://www.mvlempyr.com/novel/follow-the-path-of-dao-from-infancy',
+  'https://www.mvlempyr.com/novel/football-singularity',
+  'https://www.mvlempyr.com/novel/for-sale-fallen-lady-never-used',
+  'https://www.mvlempyr.com/novel/forced-bride-of-the-vampire-lord',
+  'https://www.mvlempyr.com/novel/forest-ranger-starting-from-picking-up-a-lynx-girl',
+  'https://www.mvlempyr.com/novel/forge-of-destiny',
+  'https://www.mvlempyr.com/novel/forget-my-husband-ill-go-make-money',
+  'https://www.mvlempyr.com/novel/forgotten-juliet',
+  'https://www.mvlempyr.com/novel/forgotten-legend-of-the-bloodied-flower',
+  'https://www.mvlempyr.com/novel/forsaken-by-the-gods-i-made-a-contract-with-the-demon-king',
+  'https://www.mvlempyr.com/novel/forty-millenniums-of-cultivation',
+  'https://www.mvlempyr.com/novel/fredrinn-firecrown-the-weakest-villain',
+  'https://www.mvlempyr.com/novel/from-abyssal-invasion-to-bursting-stars-with-a-single-sword',
+  'https://www.mvlempyr.com/novel/from-beast-abilities-to-sect-grand-master',
+  'https://www.mvlempyr.com/novel/from-human-to-skeleton-revived-with-infinite-system-crystals',
+  'https://www.mvlempyr.com/novel/from-londoner-to-lord',
+  'https://www.mvlempyr.com/novel/from-secret-clan-to-the-divine-dynasty',
+  'https://www.mvlempyr.com/novel/from-the-heavens-descended-an-immortal-sister',
+  'https://www.mvlempyr.com/novel/from-thug-to-idol-transmigrating-to-a-survival-show',
+  'https://www.mvlempyr.com/novel/frostfire-legacy',
+  'https://www.mvlempyr.com/novel/frozen-flame-of-dawn',
+  'https://www.mvlempyr.com/novel/fulfilling-life-of-an-urban-time-manipulator',
+  'https://www.mvlempyr.com/novel/futanari-system'
       ];
 
     const browser = await launchBrowser();
